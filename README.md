@@ -1,5 +1,5 @@
 # <a href="https://www.linkedin.com/in/michelle-jones444/">Michelle Jones</a>'s IT and Cybersecurity Project Portfolio 🔐
-I'm really interested in cybersecurity and enjoy solving tough problems through practical projects. From managing security risks to spotting threats, these projects help me explore the constantly changing world of cybersecurity. Please feel free to take a look and see the effort I’ve put into improving security systems and the processes!
+I'm very passionate about cybersecurity and enjoy solving tough problems through practical projects. From managing security risks to spotting threats, these projects help me explore the constantly changing world of cybersecurity. Please feel free to take a look and see the effort I’ve put into improving security systems and the processes!
 
 
 ## ⚠️ Vulnerability Management Projects

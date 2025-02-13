@@ -32,7 +32,7 @@ I am very passionate about cybersecurity and am fascinated with tackling complex
 - **[Threat Hunting Incident: Tor Browser Usage](https://github.com/MicheJones/Threat-Hunt-Report-Unauthorized-TOR-Usage/tree/main)**
 - **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/MicheJones/Incident-Response-Brute-Force-Attempt-Detection/tree/main)**
 - **[Incident Response: Email-Phishing (Urgent Account Suspended)](https://github.com/MicheJones/Incident-Response-Email-Phishing-Urgent/tree/main)**
-- **[Incident Response: Email Analysis (Phishing)](https://github.com/TrevinoParker7/Email-Analysis-Phishing)**
+- **[Incident Response: Email Analysis (Phishing)](https://github.com/MicheJones/Email-Analysis-Phishing-/tree/main)**
 - **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/TrevinoParker7/Create-Alert-Rule-PowerShell-Suspicious-Web-Request-/tree/main)**
 - **[Incident Response: Create Alert Rule (Potential Impossible Travel)](https://github.com/TrevinoParker7/Potential-Impossible-Travel-Alert/tree/main)**
 - **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/TrevinoParker7/Data-Exfiltration/tree/main)**

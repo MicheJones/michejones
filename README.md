@@ -25,7 +25,7 @@ I am very passionate about cybersecurity and am fascinated with tackling complex
 - **[Vulnerability Management in Azure Sandbox](https://github.com/MicheJones/vulnerability-management-with-nessus-on-sandbox-network)**
  
 #### 🚨 Threat Hunting & Security Operations
-- **[Incident Response: Phishing via Fake Software Update ](https://github.com/TrevinoParker7/PhishingSoftwareUpdate)**
+- **[Incident Response: Phishing via Fake Software Update ](https://github.com/MicheJones/Incident-Response/tree/main)**
 - **[Incident Response: Threat Hunting (Operation Jackal Spear) ](https://github.com/TrevinoParker7/Threat-Hunting-Scenario-Operation-Jackal-Spear/tree/main)**
 - **[Incident Response: Zero-Day Ransomware (PwnCrypt)](https://github.com/TrevinoParker7/Zero-Day-Ransomware-PwnCrypt-Outbreak/blob/main/README.md)**
 - **[Incident Response: Remote Code Execution Detected](https://github.com/TrevinoParker7/Remote-Code-Execution-Detection/blob/main/README.md)**

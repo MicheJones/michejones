@@ -22,8 +22,6 @@ I am very passionate about cybersecurity and am fascinated with tackling complex
 ### 🔵 BLUE TEAM 🔵
 #### ⚠️ Vulnerability Management Projects
 - **[Full Vulnerability Management Program Implementation](https://github.com/MicheJones/vulnerability-management-program)**  
-- **[10+ Ensure-Audit-Remediation-Win-Server for Password, Encryption, Admin (PowerShell)](https://github.com/TrevinoParker7/Audit-Remediation-Win-Server/tree/main)**
-- **[15+ Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/TrevinoParker7/Remediation-Automation-Bash-And-Powershell/tree/main/automation)** 
 - **[Vulnerability Management in Azure Sandbox](https://github.com/MicheJones/vulnerability-management-with-nessus-on-sandbox-network)**
  
 #### 🚨 Threat Hunting & Security Operations

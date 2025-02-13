@@ -29,7 +29,7 @@ I am very passionate about cybersecurity and am fascinated with tackling complex
 - **[Incident Response: Threat Hunting (Operation Jackal Spear) ](https://github.com/MicheJones/Threat-Hunting-Scenario-Operation-Jackal-Spear/tree/main)**
 - **[Incident Response: Zero-Day Ransomware (PwnCrypt)](https://github.com/MicheJones/Incident-Response-Plan-Zero-Day-Ransomware/tree/main)**
 - **[Incident Response: Remote Code Execution Detected](https://github.com/MicheJones/Threat-Hunt-Report-Remote-Code-Execution-Detection-/tree/main)**
-- **[Threat Hunting Incident: Tor Browser Usage](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**
+- **[Threat Hunting Incident: Tor Browser Usage](https://github.com/MicheJones/Threat-Hunt-Report-Unauthorized-TOR-Usage/tree/main)**
 - **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/TrevinoParker7/Create-Alert-Rule-Brute-Force-Attempt-Detection-/blob/main/README.md)**
 - **[Incident Response: Email-Phishing (Urgent Account Suspended)](https://github.com/TrevinoParker7/Incident-Response-Email-Phishing-/blob/main/README.md)**
 - **[Incident Response: Email Analysis (Phishing)](https://github.com/TrevinoParker7/Email-Analysis-Phishing)**

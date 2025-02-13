@@ -13,7 +13,7 @@ I am very passionate about cybersecurity and am fascinated with tackling complex
 
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
-- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/trevinoparker7/Cloud-Soc)** *(Live Traffic)*
+- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/MicheJones/building-a-soc-honeynet-in-azure-live-traffic-/tree/main))** *(Live Traffic)*
 - **[Why KQL Maps Are Essential for CEOs and Non-Tech People](https://github.com/TrevinoParker7/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-People)**
 - **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/trevinoparker7/Splunk-SIEM)** *(Live Traffic)*  
 

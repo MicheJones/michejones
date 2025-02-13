@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm <a href="https://www.linkedin.com/in/michelle-y-jones/">Michelle Jones</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/michelle-y-jones/">Michelle Jones</a>!</h1>
 <h3 align="center">IT | Cybersecurity Professional 🔐</h3>
 
 <div align="center">

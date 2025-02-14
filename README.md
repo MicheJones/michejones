@@ -38,7 +38,7 @@ I am very passionate about cybersecurity and am fascinated with tackling complex
 - **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/MicheJones/Incident-Report-Create-Alert-Rule-Potential-/tree/main)**
 - **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/MicheJones/Data-Exfiltration-from-PIP-d-Employee/tree/main)**
 - **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/MicheJones/Detection-of-Internet-facing-sensitive-assets/tree/main)**
-- **[Compliance Framework Implementation (NIST)](https://github.com/trevinoparker7/NIST-Compliance/tree/main)**   
+- **[Compliance Framework Implementation (NIST)](https://github.com/MicheJones/Implementing-Security-Controls-Towards-NIST-SP-800-53/tree/main)**   
     
 ### 🔴 RED TEAM 🔴
 - **[Ransomware Attack](https://github.com/trevinoparker7/ransomware-attack)**  

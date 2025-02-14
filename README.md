@@ -48,7 +48,7 @@ I am very passionate about cybersecurity and am fascinated with tackling complex
 - **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/MicheJones/Cybersecurity-Assessment-utilizing-NIST-CyberSecurity-Framework/tree/main)**
 
 ###   IT Projects
-- **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/trevinoparker7/AD-Lab)**
+- **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/MicheJones/Active-Directory-Corporate-Simulation/tree/main)**
 
   
 ---

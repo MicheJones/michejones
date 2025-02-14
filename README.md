@@ -41,7 +41,7 @@ I am very passionate about cybersecurity and am fascinated with tackling complex
 - **[Compliance Framework Implementation (NIST)](https://github.com/MicheJones/Implementing-Security-Controls-Towards-NIST-SP-800-53/tree/main)**   
     
 ### 🔴 RED TEAM 🔴
-- **[Ransomware Attack](https://github.com/trevinoparker7/ransomware-attack)**  
+- **[Ransomware Attack](https://github.com/MicheJones/Ransomware-Attack/tree/main)**  
 - **[Keylogger](https://github.com/trevinoparker7/keylogger)**
 
 ### GRC Analyst ###

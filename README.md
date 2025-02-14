@@ -35,7 +35,7 @@ I am very passionate about cybersecurity and am fascinated with tackling complex
 - **[Incident Response: Email Analysis (Phishing)](https://github.com/MicheJones/Email-Analysis-Phishing-/tree/main)**
 - **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/MicheJones/Incident-Response-Create-Alert-Rule/tree/main)**
 - **[Incident Response: Create Alert Rule (Potential Impossible Travel)](https://github.com/MicheJones/Incident-Response-Create-Alert-Rule-PowerShell-Suspicious/tree/main)**
-- **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/TrevinoParker7/Data-Exfiltration/tree/main)**
+- **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/MicheJones/Incident-Report-Create-Alert-Rule-Potential-/tree/main)**
 - **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/TrevinoParker7/DeviceInfo-Public-Ip-Address-Detected)**
 - **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/TrevinoParker7/Sudden-Network-Slowdowns/tree/main)**
 - **[Compliance Framework Implementation (NIST)](https://github.com/trevinoparker7/NIST-Compliance/tree/main)**   
